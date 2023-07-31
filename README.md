@@ -1,2 +1,2 @@
 # Barra-Lateral
-feat: sidebar
+menu lateral expansível com CSS, HTML e JavaScript 🚀
