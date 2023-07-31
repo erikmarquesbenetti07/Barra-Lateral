@@ -1,1 +1,2 @@
 # Barra-Lateral
+feat: sidebar
